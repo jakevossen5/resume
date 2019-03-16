@@ -1,4 +1,7 @@
 #+TITLE: resume
 
-This is the LaTeX code and pdf for my resume. Read the LICENSE file
+This is the ~LaTeX~ code and pdf for my resume. Read the ~LICENSE~ file
 for information about distribution. 
+
+~old-resume.pdf~ contains my resume before migrating to LaTeX, written
+in Pages. 
