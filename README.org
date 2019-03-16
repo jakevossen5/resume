@@ -1,0 +1,4 @@
+#+TITLE: resume
+
+This is the LaTeX code and pdf for my resume. Read the LICENSE file
+for information about distribution. 
