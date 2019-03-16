@@ -1,5 +1,7 @@
 #+TITLE: resume
 
+Currently work in progres.
+
 This is the ~LaTeX~ code and pdf for my resume. Read the ~LICENSE~ file
 for information about distribution. The template comes from the aptly
 named [[https://github.com/posquit0/Awesome-CV][Awesome-CV]]. 
