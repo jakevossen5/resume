@@ -1,5 +1,8 @@
 #+TITLE: CV
 
+This is currently an unoffical CV, just a place to keep track of
+things if I ever need to actually have a CV
+
 - MHacks 11 Best use of Twilio API (120 competing)
 - Cofounder and Vice president of Cyber Seucirty Club
 - Hack CU V Most Random Hack
