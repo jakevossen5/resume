@@ -1,0 +1,20 @@
+#+TITLE: CV
+
+- MHacks 11 Best use of Twilio API (120 competing)
+- Cofounder and Vice president of Cyber Seucirty Club
+- Hack CU V Most Random Hack
+- RMCCDC Cyber Defence Competition participant
+- Lockheed Martin Code Quest Participant (2015, 2016)
+- ICPC Participant (2018)
+- Poster Presentation: CSC1 101, Machine Learning
+- 2nd place Google Pasport Design challenge (30 competing)
+- AP Scholar
+  - AP Calculus AB (5)a
+  - AP Computer Science (5)
+  - AP Physics C Mechanics (4)
+  - AP Macroeconomics (5)
+  - AP Microeconomics (5)
+- November 2016 Student of the Month (Valor Christian High School)
+- National Honor Society (2015 - 2018)
+- 2016 Elly Award of Excellence in Animation (2016)
+- AWS Certified Solutions Architect - Associate (2018 - 2020)
