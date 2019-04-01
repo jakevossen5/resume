@@ -1,10 +1,10 @@
 #+TITLE: resume
 
-Currently work in progres.
+See the [[https://github.com/jakevossen5/resume/releases][Releases]] tab for the most up to date version that is not work
+in progress.
 
-This is the ~LaTeX~ code and pdf for my resume. Read the ~LICENSE~ file
-for information about distribution. The template comes from the aptly
-named [[https://github.com/posquit0/Awesome-CV][Awesome-CV]]. 
+Read the ~LICENSE~ file for information about distribution. The
+template comes from the aptly named [[https://github.com/posquit0/Awesome-CV][Awesome-CV]].
 
 ~old-resume.pdf~ contains my resume before migrating to LaTeX, written
 in Pages. 
