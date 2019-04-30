@@ -3,10 +3,13 @@
 This is currently an unoffical CV, just a place to keep track of
 things if I ever need to actually have a CV
 
+* Awards/Events
+
 - MHacks 11 Best use of Twilio API (120 competing)
 - Cofounder and Vice president of Cyber Seucirty Club
 - Hack CU V Most Random Hack
-- RMCCDC Cyber Defence Competition participant
+- AWS Certified Solutions Architect - Associate (2018 - 2020)
+- RMCCDC Cyber Defence Competition Participant
 - Lockheed Martin Code Quest Participant (2015, 2016)
 - ICPC Participant (2018)
 - Poster Presentation: CSC1 101, Machine Learning
@@ -20,4 +23,10 @@ things if I ever need to actually have a CV
 - November 2016 Student of the Month (Valor Christian High School)
 - National Honor Society (2015 - 2018)
 - 2016 Elly Award of Excellence in Animation (2016)
-- AWS Certified Solutions Architect - Associate (2018 - 2020)
+
+
+* Service
+
+- Kenya - June 2016
+  - Built houses, served and suported women with AIDs, helped install
+    new gas system for cooking in an orphanage
