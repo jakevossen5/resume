@@ -1,4 +1,4 @@
-all : jake-vossen-resume.pdf resume.pdf cv.org
+all : resume.pdf jake-vossen-resume.pdf cv.org
 
 jake-vossen-resume.pdf : resume.pdf
 	cp resume.pdf jake-vossen-resume.pdf
