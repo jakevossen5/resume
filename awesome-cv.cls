@@ -120,6 +120,8 @@
 %                Configuration for colors
 %-------------------------------------------------------------------------------
 % Gray-scale colors
+\definecolor{minesblue}{HTML}{21314D}
+\definecolor{minesorange}{HTML}{D2492A}
 \definecolor{white}{HTML}{FFFFFF}
 \definecolor{black}{HTML}{000000}
 \definecolor{darkgray}{HTML}{333333}
@@ -133,7 +135,7 @@
 \definecolor{blue}{HTML}{6CE0F1}
 % Text colors
 \definecolor{darktext}{HTML}{414141}
-\colorlet{text}{darkgray}
+\colorlet{text}{minesblue}
 \colorlet{graytext}{gray}
 \colorlet{lighttext}{lightgray}
 % Awesome colors
@@ -151,10 +153,12 @@
 \newbool{acvSectionColorHighlight}
 \setbool{acvSectionColorHighlight}{true}
 
-% Awesome section color
-\def\@sectioncolor#1#2#3{%
-  \ifbool{acvSectionColorHighlight}{{\color{awesome}#1#2#3}}{#1#2#3}%
-}
+
+\def\@sectioncolor{\color{minesorange}}
+% % Awesome section color
+% \def\@sectioncolor#1#2#3{%
+%   \ifbool{acvSectionColorHighlight}{{\color{awesome-skyblue}#1#2#3}}{#1#2#3}%
+% }
 
 
 %-------------------------------------------------------------------------------
