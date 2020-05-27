@@ -1,9 +1,6 @@
 #+TITLE: resume
 
-You can download the most up to date resume [[https://github.com/jakevossen5/resume/releases/latest/download/jake-vossen-resume.pdf][here]]. 
+You can download the most up to date resume [[https://github.com/jakevossen5/resume/releases/latest/download/jake-vossen-resume.pdf][here]], and most recent CV [[https://github.com/jakevossen5/resume/releases/latest/download/jake-vossen-cv.pdf][here]]
 
 Read the ~LICENSE~ file for information about distribution. The
 template comes from the aptly named [[https://github.com/posquit0/Awesome-CV][Awesome-CV]].
-
-~old-resume.pdf~ contains my resume before migrating to LaTeX, written
-in Pages. 
