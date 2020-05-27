@@ -88,11 +88,19 @@
 
 % Print the footer with 3 arguments(<left>, <center>, <right>)
 % Leave any of these blank if they are not needed
+\ifcv
 \makecvfooter
   {\today}
   {Jake Vossen~~~·~~~Curriculum Vitae}
-  {\thepage}
-
+%   {Jake Vossen~~~·~~~Resume}
+{\thepage}
+\else
+\makecvfooter
+    {\today}
+{Jake Vossen~~~·~~~Résumé}
+%   {Jake Vossen~~~·~~~Resume}
+{\thepage}
+\fi
 
 %-------------------------------------------------------------------------------
 %	CV/RESUME CONTENT
